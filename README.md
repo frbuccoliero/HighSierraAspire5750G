@@ -7,7 +7,7 @@ With this EFI you will have working:
   - Ethernet
   - Battery with status
   - Trackpad (only up to 2-fingers due to synaptics limitation)
-  - USB3.0 //WIP
+  - USB3.0 
   - SD Card Reader
   - External HDMI Monitor support
   - System Audio

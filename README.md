@@ -24,6 +24,3 @@ With this EFI you will have working:
 
 # Credits
 Thanks to iCanaro, Baio and Gengik from macos86.it who helped me a lot while setting up this whole bunch of stuff.
-
-# Contacts
-You can find me on twitter @zipippino
